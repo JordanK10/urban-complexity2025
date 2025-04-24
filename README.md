@@ -1,7 +1,7 @@
-### urban-complexity2025
+# urban-complexity2025
 
 
-# Research Goals
+### Research Goals
 * Describe our metric and eventually derive it from a model
 * Density vs. Complexity across geographic scales
 * Complexity & Density vs. Distance from City Center
